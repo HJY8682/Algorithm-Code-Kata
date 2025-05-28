@@ -1,6 +1,6 @@
 # 📌 Algorithm Code Kata
 ---
-## 📦 문제풀이
+## 📦 답안지
 ### programmers 코딩테스트 LV.0
 - [120802_두 수의 합 구하기](https://github.com/HJY8682/Algorithm-Code-Kata/blob/main/programmers/120802_%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)
 - [120803_두 수의 차 구하기](https://github.com/HJY8682/Algorithm-Code-Kata/blob/main/programmers/120803_%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8%20%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)
